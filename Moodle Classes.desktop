@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to Moodle 
+Type=Link
+URL=http://moodle/
+Icon=/var/www/moodle/html/pix/f/moodle-256.png
+Name[en_US]=Moodle Classes
